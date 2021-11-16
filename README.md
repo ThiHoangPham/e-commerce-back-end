@@ -14,6 +14,8 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank" />
   <a href="#">
   <img alt="npm" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" target="_blank" />
+  <a href="#">
+  <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" target="_blank" />
   <br>
   <a href="https://www.buymeacoffee.com/adampham123">
   <img alt="donate buy me a coffee" src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat-square" target="_blank" />
